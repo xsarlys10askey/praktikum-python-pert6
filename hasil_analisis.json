@@ -1,0 +1,114 @@
+{
+    "total_pengguna": 10,
+    "data_pengguna": [
+        {
+            "nama": "Leanne Graham",
+            "email": "Sincere@april.biz",
+            "kota": "Gwenborough"
+        },
+        {
+            "nama": "Ervin Howell",
+            "email": "Shanna@melissa.tv",
+            "kota": "Wisokyburgh"
+        },
+        {
+            "nama": "Clementine Bauch",
+            "email": "Nathan@yesenia.net",
+            "kota": "McKenziehaven"
+        },
+        {
+            "nama": "Patricia Lebsack",
+            "email": "Julianne.OConner@kory.org",
+            "kota": "South Elvis"
+        },
+        {
+            "nama": "Chelsey Dietrich",
+            "email": "Lucio_Hettinger@annie.ca",
+            "kota": "Roscoeview"
+        },
+        {
+            "nama": "Mrs. Dennis Schulist",
+            "email": "Karley_Dach@jasper.info",
+            "kota": "South Christy"
+        },
+        {
+            "nama": "Kurtis Weissnat",
+            "email": "Telly.Hoeger@billy.biz",
+            "kota": "Howemouth"
+        },
+        {
+            "nama": "Nicholas Runolfsdottir V",
+            "email": "Sherwood@rosamond.me",
+            "kota": "Aliyaview"
+        },
+        {
+            "nama": "Glenna Reichert",
+            "email": "Chaim_McDermott@dana.io",
+            "kota": "Bartholomebury"
+        },
+        {
+            "nama": "Clementina DuBuque",
+            "email": "Rey.Padberg@karina.biz",
+            "kota": "Lebsackbury"
+        }
+    ],
+    "pengguna_gwenborough": [
+        {
+            "nama": "Leanne Graham",
+            "email": "Sincere@april.biz",
+            "kota": "Gwenborough"
+        }
+    ],
+    "data_urut_nama": [
+        {
+            "nama": "Chelsey Dietrich",
+            "email": "Lucio_Hettinger@annie.ca",
+            "kota": "Roscoeview"
+        },
+        {
+            "nama": "Clementina DuBuque",
+            "email": "Rey.Padberg@karina.biz",
+            "kota": "Lebsackbury"
+        },
+        {
+            "nama": "Clementine Bauch",
+            "email": "Nathan@yesenia.net",
+            "kota": "McKenziehaven"
+        },
+        {
+            "nama": "Ervin Howell",
+            "email": "Shanna@melissa.tv",
+            "kota": "Wisokyburgh"
+        },
+        {
+            "nama": "Glenna Reichert",
+            "email": "Chaim_McDermott@dana.io",
+            "kota": "Bartholomebury"
+        },
+        {
+            "nama": "Kurtis Weissnat",
+            "email": "Telly.Hoeger@billy.biz",
+            "kota": "Howemouth"
+        },
+        {
+            "nama": "Leanne Graham",
+            "email": "Sincere@april.biz",
+            "kota": "Gwenborough"
+        },
+        {
+            "nama": "Mrs. Dennis Schulist",
+            "email": "Karley_Dach@jasper.info",
+            "kota": "South Christy"
+        },
+        {
+            "nama": "Nicholas Runolfsdottir V",
+            "email": "Sherwood@rosamond.me",
+            "kota": "Aliyaview"
+        },
+        {
+            "nama": "Patricia Lebsack",
+            "email": "Julianne.OConner@kory.org",
+            "kota": "South Elvis"
+        }
+    ]
+}
